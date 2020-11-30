@@ -20,7 +20,7 @@ Following are the documents required to run the project.
 
 #### <i class="icon-file"></i> Dataset
 
-Copy the zip to your current working directory and extract its contents.
+Copy the zip file from https://www.kaggle.com/unitednations/global-commodity-trade-statistics to your current working directory and extract its contents.
 
 #### <i class="icon-file"></i> requirements.txt
 Copy the requirements.txt file to your working directory and run the command:
